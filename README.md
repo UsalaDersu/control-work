@@ -23,5 +23,4 @@
 
 Решение [здесь](Task/Program.cs)
 
-Cхема [здесь](algorithm.jpg)
-
+![схема здесь](algorithm.jpg)
