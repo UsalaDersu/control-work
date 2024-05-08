@@ -21,3 +21,7 @@
 
 [“Russia”, “Denmark”, “Kazan”] → []
 
+Решение [здесь](Task/Program.cs)
+
+Cхема [здесь](/algorithm.jpg)
+
